@@ -1,0 +1,29 @@
+.m-45px {
+  margin: 45px;
+}
+
+.mr-20px {
+  margin-right: 20px;
+}
+
+.p-0 {
+  padding: 0;
+}
+
+.hide {
+  display: none;
+}
+
+.w-100 {
+  width: 60%;
+}
+
+.show-edit-delete {
+  display: none;
+}
+
+mat-row:hover {
+  .show-edit-delete {
+    display: block;
+  }
+}
